@@ -1,2 +1,2 @@
-# This is My small projec to of python 
+# This is My small project to of python 
 Coder Name = Anshul Singh
